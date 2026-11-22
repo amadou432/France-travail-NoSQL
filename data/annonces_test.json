@@ -1,0 +1,33 @@
+
+[
+  {
+    "id": "001",
+    "romeCode": "M1802",
+    "intitule": "Administrateur systèmes et réseaux",
+    "typeContrat": "CDI",
+    "lieuTravail": {
+      "libelle": "Paris 75"
+    },
+    "description": "Administration des serveurs et réseaux."
+  },
+  {
+    "id": "002",
+    "romeCode": "M1802",
+    "intitule": "Ingénieur réseaux",
+    "typeContrat": "CDD",
+    "lieuTravail": {
+      "libelle": "Lyon 69"
+    },
+    "description": "Maintenance et sécurisation du réseau."
+  },
+  {
+    "id": "003",
+    "romeCode": "M1802",
+    "intitule": "Expert cybersécurité",
+    "typeContrat": "CDI",
+    "lieuTravail": {
+      "libelle": "Paris 75"
+    },
+    "description": "Sécurisation des systèmes informatiques."
+  }
+]
